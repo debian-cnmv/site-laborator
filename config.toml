@@ -1,0 +1,36 @@
+baseURL = "http://192.168.0.12"
+title = "Laboratorul de informatică"
+theme = "etch"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+disableKinds = ["RSS"]
+
+[params]
+  description = "Resurse educaționale"
+  dark = "auto"
+  highlight = true
+
+[menu]
+    [[menu.main]]
+       identifier = "posts"
+       name = "postări"
+       title = "postări"
+       url = "/"
+       weight = 10
+
+    [[menu.main]]
+       identifier = "about"
+       name = "despre"
+       title = "Despre"
+       url = "/about/"
+       weight = 20
+
+[permalinks]
+    posts = "/:title/"
+
+[markup.goldmark.renderer]
+# Allows HTML in Markdown
+    unsafe = true

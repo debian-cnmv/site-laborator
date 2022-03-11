@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://192.168.0.12/tags/c&#43;&#43;/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/tags/codeblocks/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/posts/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/tags/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/utilizarea-codeblocks-pentru-crearea-unui-program-c-/</loc>
+    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/crearea-scripturilor-php/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/about/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/tags/php/</loc>
+    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/atestat-2022/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/tags/mysql/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/tags/putty/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/conectarea-la-serverul-mysql/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/conectarea-la-serverul-linux/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/categories/</loc>
+  </url>
+  
+</urlset>
