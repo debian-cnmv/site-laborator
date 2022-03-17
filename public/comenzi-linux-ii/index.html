@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Resurse educaționale">
+    
+    <link rel="shortcut icon" href="http://192.168.0.12/favicon.ico">
+    
+    <link rel="stylesheet" href="/css/style.min.css">
+
+    <title>Comenzi Linux - II</title>
+</head>
+<body><header id="banner">
+    <h2><a href="http://192.168.0.12">Laboratorul de informatică</a></h2>
+    <nav>
+        <ul>
+            <li>
+                <a href="/" title="postări">postări</a>
+            </li><li>
+                <a href="/tags" title="etichete">etichete</a>
+            </li><li>
+                <a href="/about/" title="Despre">despre</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main id="content">
+<article>
+    <header id="post-header">
+        <h1>Comenzi Linux - II</h1>
+            <div>
+                <time>March 17, 2022</time>
+                </div>
+    </header><h2 id="obținerea-de-informații-despre-o-comandă">Obținerea de informații despre o comandă</h2>
+<p>Pentru a obține <em>informații de bază</em> despre o comandă se poate
+utiliza comanda <code>whatis</code>:</p>
+<div class="highlight"><pre class="chroma"><code class="language-sh" data-lang="sh">whatis comandă
+</code></pre></div><p>Majoritatea comenzilor au opțiunile <code>-h</code> sau <code>--help</code> care permit
+obținerea unor informații <em>mai detaliate</em>:</p>
+<div class="highlight"><pre class="chroma"><code class="language-sh" data-lang="sh">comandă --help
+</code></pre></div><p>sau</p>
+<pre><code>comandă -h
+</code></pre><h2 id="manualul-unei-comenzi">Manualul unei comenzi</h2>
+<p>Informații detaliat despre o anumită comandă se pot obține folosind comanda
+<code>man</code>:</p>
+<div class="highlight"><pre class="chroma"><code class="language-sh" data-lang="sh">man comandă
+</code></pre></div><h2 id="exemple">Exemple</h2>
+<div class="highlight"><pre class="chroma"><code class="language-sh" data-lang="sh">whatis cal
+date --help
+calendar -h
+man ls
+</code></pre></div></article>
+
+        </main><footer id="footer">
+    
+</footer>
+</body>
+</html>
