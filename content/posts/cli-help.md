@@ -5,7 +5,7 @@ tags:
 - Linux
 ---
 
-## Obținerea de informații despre o comandă
+### Obținerea de informații despre o comandă
 
 Pentru a obține *informații de bază* despre o comandă se poate
 utiliza comanda `whatis`:
@@ -24,20 +24,18 @@ comandă --help
 
 sau 
 
-```
+```sh
 comandă -h
 ```
 
-## Manualul unei comenzi
-
-Informații detaliat despre o anumită comandă se pot obține folosind comanda
+Manualul complet al unei comenzi se poate consulta folosind comanda
 `man`:
 
 ```sh
 man comandă
 ```
 
-## Exemple
+#### Exemple
 
 ```sh
 whatis cal
