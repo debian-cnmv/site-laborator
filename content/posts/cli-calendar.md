@@ -2,7 +2,6 @@
 title: "Comenzi Linux - I"
 date: "2022-03-16"
 tags:
-- CLI
 - Linux
 ---
 

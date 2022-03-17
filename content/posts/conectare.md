@@ -4,6 +4,7 @@ date: "2021-12-17"
 tags:
 - putty
 - mysql
+- Linux
 ---
 
 ## PuTTY

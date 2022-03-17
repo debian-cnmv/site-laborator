@@ -2,8 +2,7 @@
 title: "Atestat 2022"
 date: "2022-01-28"
 tags:
-- putty
-- mysql
+- atestat
 ---
 
 ## Clasa a XII-a C

@@ -3,6 +3,7 @@ title: "Crearea scripturilor PHP"
 date: "2022-02-02"
 tags:
 - php
+- Linux
 ---
 
 ## Conectarea la server

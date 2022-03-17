@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://192.168.0.12/tags/cli/</loc>
-    <lastmod>2022-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://192.168.0.12/comenzi-linux-i/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
   </url>
@@ -63,17 +58,12 @@
   </url>
   
   <url>
+    <loc>http://192.168.0.12/tags/atestat/</loc>
+    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://192.168.0.12/atestat-2022/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://192.168.0.12/tags/mysql/</loc>
-    <lastmod>2022-01-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://192.168.0.12/tags/putty/</loc>
     <lastmod>2022-01-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,7 +73,17 @@
   </url>
   
   <url>
+    <loc>http://192.168.0.12/tags/mysql/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://192.168.0.12/conectarea-la-serverul-linux/</loc>
+    <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/tags/putty/</loc>
     <lastmod>2021-12-17T00:00:00+00:00</lastmod>
   </url>
   
