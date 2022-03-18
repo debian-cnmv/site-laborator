@@ -10,7 +10,7 @@ disableKinds = ["RSS"]
 
 [params]
   description = "Resurse educaționale"
-  dark = "auto"
+  dark = "on"
   highlight = true
 
 [menu]
