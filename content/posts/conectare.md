@@ -7,7 +7,7 @@ tags:
 - Linux
 ---
 
-## PuTTY
+### PuTTY
 
 Conectarea la server se va face pe baza *numelui de utilizator* și a unei *parole*, folosind utilitarul `PuTTY`.
 
@@ -18,13 +18,13 @@ Descărcați varianta `32-bit x86`, ca în imagine:
 
 ![Download PuTTY](/img/putty-download.png)
 
-## Setări pentru font
+### Setări pentru font
 
 Tipul de font și dimensiunea pot fi schimbate folosind opțiunile indicate mai jos:
 
 ![Font](/img/putty-1.png)
 
-## Setări pentru conectare
+### Setări pentru conectare
 
 Introduceți adresa IP a serverului ca în imaginea de mai jos și apăsați `Open`:
 

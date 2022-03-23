@@ -3,27 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://192.168.0.12/tags/codeblocks/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/instalarea-mediului-de-programare-codeblocks/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/posts/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://192.168.0.12/tags/</loc>
+    <lastmod>2022-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://192.168.0.12/tags/c&#43;&#43;/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://192.168.0.12/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://192.168.0.12/posts/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://192.168.0.12/setw-%C8%99i-setfill/</loc>
-    <lastmod>2022-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://192.168.0.12/tags/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,12 +53,7 @@
   </url>
   
   <url>
-    <loc>http://192.168.0.12/tags/codeblocks/</loc>
-    <lastmod>2022-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://192.168.0.12/utilizarea-codeblocks-pentru-crearea-unui-program-c-/</loc>
+    <loc>http://192.168.0.12/crearea-unui-program-c-%C3%AEn-codeblocks/</loc>
     <lastmod>2022-03-10T00:00:00+00:00</lastmod>
   </url>
   

@@ -5,7 +5,7 @@ tags:
 - Linux
 ---
 
-## Comenzile `cal` și `ncal`
+### Comenzile `cal` și `ncal`
 
 - Comenzile următoare afișează un calendar al *lunii curente*:
 
@@ -32,7 +32,7 @@ tags:
     ```
 
 
-## Comanda `calendar`
+### Comanda `calendar`
 
 ![Comanda calendar](/img/cli-calendar.png)
 

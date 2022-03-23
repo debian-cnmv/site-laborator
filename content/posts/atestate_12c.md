@@ -5,7 +5,7 @@ tags:
 - atestat
 ---
 
-## Clasa a XII-a C
+### Clasa a XII-a C
 -----
 1. [ariton](http://192.168.0.12/~ariton) 
 1. [bezuscu](http://192.168.0.12/~bezuscu) 

@@ -6,21 +6,21 @@ tags:
 - Linux
 ---
 
-## Conectarea la server
+### Conectarea la server
 
 Conectarea se face pe baza unui *nume de utilizator* și a unei *parole* ca
 în exemplul de mai jos în care userul este `alexe`:
 
 ![Conectare](/img/php-1.png)
 
-## Schimbarea directorului curent
+### Schimbarea directorului curent
 
 Scripturile `php` se creează în mod obligatoriu în directorul `public_html`.
 Poziționarea în director se face folosind comanda `cd` (change directory):
 
 ![Schimbare folder](/img/php-2.png)
 
-## Editarea unui script
+### Editarea unui script
 
 Editarea se poate face folosind editorul `nano` ca în imaginea următoare,
 în care s-a precizat numele scriptului care se creează:
@@ -35,7 +35,7 @@ Salvarea scriptului se face folosind combinația `CTRL+O` și `ENTER`:
 
 ![Salvare](/img/php-5.png)
 
-## Verificarea scriptului
+### Verificarea scriptului
 
 În browser se utilizează adresa `http://192.168.0.12/~alexe` și se alege
 scriptul din listă:
@@ -46,12 +46,6 @@ Se verifică apoi rezultatul:
 
 ![Rezultat](/img/php-7.png)
 
-# Important
+### Important
 
 Verificați cu `CTRL+U` codul sursă al paginii!
-
-
-
-
-
-
