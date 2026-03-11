@@ -1,13 +1,15 @@
 ---
-title: "Structura unui document HTML"
-date: "2022-04-07"
+title: "HTML - Structura unui document și a unui site"
+date: "2026-03-11"
 tags:
 - html
 ---
 
+### Structura
+
+Un document `HTML`(**H**yper**T**ext **M**arkup **L**anguage) are următoarea structură:
 
 ```html
-
 <!DOCTYPE html>
 <html lang='ro'>
 <head>
@@ -22,7 +24,7 @@ tags:
 </html>
 ```
 
-### Observații
+#### Observații
 
 - Un document `HTML` este un *fișier text* cu extensia `.html`
 - Este format dintr-un *corp* precedat de un *antet*
@@ -32,5 +34,17 @@ tags:
   încât diacriticele românești să fie recunoscute
 - Limba folosită în document se specifică folosind atributul `lang` al elementului `html`
 - Elementul `<!--  -->` permite introducerea unor *comentarii* în cod 
+
+
+### Structura unui site
+
+Un site este un **folder** pe un server de web care conține diverse resurse:
+
+- documente html
+- fișiere imagine
+- fișiere video
+- fișiere de tip document
+
+Este important ca folderul să conțină un fișier numit `index.html` care este **pagina principală** a sitului.
 
 
