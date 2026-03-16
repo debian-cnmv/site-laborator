@@ -5,7 +5,7 @@ date: "2026-02-18"
 
 ### Clasa a XII-a B
 
-1. [agapie](http://192.168.0.12/~agapiei/atestat/)
+1. [agapie](http://192.168.0.12/~agapie/atestat/)
 1. [andreescu](http://192.168.0.12/~andreescu/atestat/)
 1. [bonciu](http://192.168.0.12/~bonciu/atestat/)
 1. [bunea](http://192.168.0.12/~bunea/atestat/)
