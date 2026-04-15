@@ -1,29 +1,33 @@
 ---
 title: "Crearea unui program C++ pe onlinegdb"
-date: "2026-04-01"
+date: "2026-04-15"
 tags:
 - C++
 ---
 
 ### Accesul la mediul de programare online
 
-Accesați adresa [https://www.onlinegdb.com/](https://www.onlinegdb.com/)
-și veți avea acces la un mediu de lucru ca în imagine:
+Accesați adresa [https://www.onlinegdb.com/](https://www.onlinegdb.com/).
 
-![Mediul de programare online](/img/onlinegdb.png)
+### Pașii realizării unui program
 
-### Login
+#### 1. Login
+
+![Login](/img/onlinegdb-login-1.jpg)
 
 Utilizați opțiunea `Google+` cu adresa de email de pe `cnmvslobozia.ro`
 și parola corespunzătoare.
 
-![Login](/img/onlinegdb-login.png)
+![Login](/img/onlinegdb-login-2.jpg)
 
-### Pașii realizării unui program
+#### 2. Alegeți limbajul
 
-- **Login** cu contul de `cnmvslobozia.ro`
-- **Alegerea limbajului** `C++` din meniul `Language`
-- **Editarea** codului sursă
-- **Execuție** folosind `Run`
-- **Salvarea** codului folosind `Save`
+![Alegerea limbajului C++](/img/onlinegdb-cpp.jpg)
 
+#### 3. Editați și Salvați programul
+
+![Salvare](/img/onlinegdb-save.jpg)
+
+#### 4. Lansați în execuție
+
+![Run](/img/onlinegdb-run.jpg)
